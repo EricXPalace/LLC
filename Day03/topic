@@ -1,0 +1,4 @@
+This class will show how to inport .csv into SQLite.
+
+1. Install SQLite.
+2. Run create_db.py, this program will 
