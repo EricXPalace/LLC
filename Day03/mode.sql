@@ -1,0 +1,1 @@
+CREATE TABLE Student (id integer NOT NULL PRIMARY KEY AUTOINCREMENT,name text NOT NULL,age smallint NOT NULL)
