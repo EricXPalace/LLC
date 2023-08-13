@@ -9,11 +9,11 @@ y = [10, -1, 9, -2, 8, -3, 7, -4, 6, -5]
 
 
 # 繪製柱狀圖
-plt.boxplot(x,label=["Python"],patch_artist=True)
-plt.boxplot(y)
+plt.stem(x, y, label="A Stem map", markerfmt=":")
 
 # 定義標籤
 plt.xlabel("X-line")
+plt.xticks(rotation=45)
 plt.ylabel("Y-line")
 plt.title("Title")
 
