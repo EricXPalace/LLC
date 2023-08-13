@@ -1,0 +1,9 @@
+This class will show how to inport .csv into SQLite.
+
+1. Install SQLite.
+2. Run create_db.py, this program will show the basic SQL gramma on creating table on database.
+    2-1. CREATE TABLE <Table_Name>(Table heads)
+    2-2. INSERT INTO <Table_Name>(Heads you want to insert)VALUES(values you want to insert)
+3. Run search_db.py, this program will show the basic SQL gramma on searching table on database.
+4. Run update_db.py, this program will show the basic SQL gramma on updateing table on database.
+5. Run delect_db.py, this program will show 
